@@ -8,7 +8,7 @@ _(Free Hosting & Free database both are slow. So, please be patience as no loadi
 ### Try at locally
 _Make sure that MongoDB is running on your machine at port `27017` and `3000` port is available to run node.js server_
 ```
-    > git clone https://github.com/ritwickdey/social-network-mean-stack.git
+    > git clone https://github.com/ThomClark/MEAN.git
     > cd social-network-mean-stack/
     > npm install
     > npm build && npm start
@@ -17,4 +17,3 @@ _Make sure that MongoDB is running on your machine at port `27017` and `3000` po
 
 
 The project is from an awesome [MEAN Stack course](https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/) (BY [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)) which I've taken.]
-
